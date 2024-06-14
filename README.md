@@ -1,2 +1,2 @@
 # Hack_DB_bank
-Creating an AI Onboarding Assistant to streamline the integration of new employees into an organization.
+Creating an AI Onboarding Assistant to streamline the integration of new employees into an organization. The tool will automate responses to common queries about company policies, procedures, and technical setup. Its goal is to reduce the time and effort required from both newcomers and existing employees involved in onboarding, by efficiently guiding newcomers and redirecting questions to the appropriate personnel.
